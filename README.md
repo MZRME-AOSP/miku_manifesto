@@ -19,7 +19,7 @@ Sync Sourcecode
 
 
 ```shell
-repo init -u https://github.com/Miku-UI/manifesto -b Vampire
+repo init -u https://github.com/MZRME-AOSP/miku_manifesto -b Vampire
 ```
 
 
